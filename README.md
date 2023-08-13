@@ -1,5 +1,6 @@
-<h1 align="center">Hello there!👋, I'm Shubham Pokhrel</h1>
-<h3 align="center">Fullstack Developer & Robotics Enthusiast</h3>
+![logo](https://github.com/shubham-pokhrel/shubham-pokhrel/blob/main/Banner.png)
+<h1 align="center">Hello there!👋, I'm Shubham Pokhrel </h1>
+<h3 align="center">Fullstack Developer & Robotics Enthusiast </h3>
 <h3 align="right">Let's innovate and build together! 👨‍💻🚀</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/shubham-pokhrel/shubham-pokhrel/blob/main/coding.gif">
