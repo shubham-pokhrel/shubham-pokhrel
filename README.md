@@ -16,7 +16,7 @@
 <a href="https://twitter.com/shubham_ofcl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubham_ofcl" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shubham-pokhrel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-pokhrel" height="30" width="40" /></a>
 <a href="https://fb.com/shubhampokhrel.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shubhampokhrel.official" height="30" width="40" /></a>
-<a href="https://instagram.com/i_am_shubhampokhrel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_shubhampokhrel" height="30" width="40" /></a>
+<a href="https://instagram.com/imshubhampokhrel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_shubhampokhrel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
