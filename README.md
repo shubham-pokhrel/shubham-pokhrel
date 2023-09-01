@@ -10,6 +10,8 @@
 <p align="left"> <a href="https://twitter.com/shubham_ofcl" target="blank"><img src="https://img.shields.io/twitter/follow/shubham_ofcl?logo=twitter&style=for-the-badge" alt="shubham_ofcl" /></a> </p>
 
 - 📫 How to reach me **contact@shubhampokhrel.com.np**
+- 📌 Location : Kathmandu, Nepal 🇳🇵
+- 📢 Langauges: English, Nepali, German(Basic)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
